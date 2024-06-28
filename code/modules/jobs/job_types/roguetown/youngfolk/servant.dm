@@ -7,8 +7,8 @@
 	total_positions = 6
 	spawn_positions = 6
 
-	allowed_races = RACES_SHUNNED_UP
-	allowed_ages = ALL_AGES_LIST
+	allowed_races = RACES_ALL_KINDS
+	allowed_ages = list(AGE_ADULT)
 
 	tutorial = "Granted a life of comfortable servitute in the King's manor, you follow the Head Butler/Maid's commands and spend your day performing necessary but menial tasks."
 
